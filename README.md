@@ -13,7 +13,7 @@ cd TelegramFlood
 
 *Установите библиотеку **telethon** и обновите чтобы не было ошибок;*
 ```bash
-pip install telethon & pip install --upgrade telethon
+pip install telethon && pip install --upgrade telethon
 ```
 **Измените у коде**
 ```python
