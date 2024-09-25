@@ -15,7 +15,7 @@ cd TelegramFlood
 ```bash
 pip install telethon & pip install --upgrade telethon
 ```
-**У коде 
+**Измените у коде**
 ```python
 phone_number = 'Укажите_на_целовой_номер'
 ```
